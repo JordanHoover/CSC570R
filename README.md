@@ -1,4 +1,4 @@
 # CSC570R
-CSC570R Data Science Essentials
+CSC570R Data Science Essentials coursework 
 
-This is my repository for my Fall 2016 UIS Data Science Essentials coursework.
+*code quality is reflective of aggressive deadlines
